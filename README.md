@@ -19,11 +19,11 @@ A terminal-based multi-client chat application implemented in C using POSIX sock
 
 ## Demo
 
-Server:
-./server 8080
+  Server:
+    - ./server 8080
 
-Client:
-./client 127.0.0.1 8080
+  Client:
+    - ./client 127.0.0.1 8080
 
 ## Build
 
