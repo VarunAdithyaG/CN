@@ -17,6 +17,14 @@ A terminal-based multi-client chat application implemented in C using POSIX sock
 - pthreads
 - Linux
 
+## Demo
+
+Server:
+./server 8080
+
+Client:
+./client 127.0.0.1 8080
+
 ## Build
 
 Compile using Make:
